@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0907-koko-eating-bananas) |
+| [1524-string-matching-in-an-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
@@ -19,5 +20,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [2465-shifting-letters-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2465-shifting-letters-ii) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->

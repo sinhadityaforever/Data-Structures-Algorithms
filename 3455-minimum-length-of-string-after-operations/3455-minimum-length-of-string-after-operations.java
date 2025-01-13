@@ -7,11 +7,7 @@ class Solution {
         }
         int ans=0;
         for(int it: mp.values()){
-            int tmp = it;
-            while(tmp>=3){
-                tmp-=2;
-            }
-            ans+=tmp;
+            ans+=(it%2==0 ? 2 : 1);
         }
         return ans;
     }

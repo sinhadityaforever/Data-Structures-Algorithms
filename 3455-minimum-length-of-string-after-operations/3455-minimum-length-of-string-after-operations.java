@@ -2,8 +2,8 @@ class Solution {
     public int minimumLength(String s) {
         if(s.length()<3) return s.length();
         int[] arr = new int[26];
-        for(char c: s.toCharArray()){
-            arr[c-'a']++;
+        for(int i=0; i<s.length(); i++){
+            arr[s.charAt(i)-'a']++;
         }
         int ans=0;
         for(int it: arr){

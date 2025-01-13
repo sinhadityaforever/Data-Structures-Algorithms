@@ -1,12 +1,13 @@
 class Solution {
     public int minimumLength(String s) {
         if(s.length()<3) return s.length();
-        Map<Character, Integer> mp = new HashMap();
+        int[] arr = new int[26];
         for(char c: s.toCharArray()){
-            mp.put(c, mp.getOrDefault(c, 0)+1);
+            arr[c-'a']++;
         }
         int ans=0;
-        for(int it: mp.values()){
+        for(int it: arr){
+            if(it==0) continue;
             ans+=(it%2==0 ? 2 : 1);
         }
         return ans;

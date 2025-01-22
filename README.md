@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1524-string-matching-in-an-array) |
+| [1876-map-of-highest-peak](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2358-number-of-ways-to-split-array) |
@@ -102,5 +103,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1876-map-of-highest-peak](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2145-grid-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1876-map-of-highest-peak](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1876-map-of-highest-peak) |
 <!---LeetCode Topics End-->

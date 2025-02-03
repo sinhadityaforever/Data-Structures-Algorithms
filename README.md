@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0952-word-subsets) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0952-word-subsets](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1876-map-of-highest-peak) |

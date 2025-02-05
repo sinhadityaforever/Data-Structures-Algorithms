@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0854-making-a-large-island](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0952-word-subsets) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0907-koko-eating-bananas) |
 ## String
 |  |

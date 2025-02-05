@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1524-string-matching-in-an-array) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2465-shifting-letters-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0952-word-subsets](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Tree
 |  |

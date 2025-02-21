@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2145-grid-game) |

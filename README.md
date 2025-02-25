@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1524-string-matching-in-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2465-shifting-letters-ii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Data Stream
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->

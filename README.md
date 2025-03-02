@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2792-neighboring-bitwise-xor) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
 | ------- |

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2465-shifting-letters-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3643-zero-array-transformation-ii) |
 ## String
 |  |
 | ------- |

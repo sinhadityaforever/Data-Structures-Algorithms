@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2465-shifting-letters-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2792-neighboring-bitwise-xor) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -327,6 +330,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->

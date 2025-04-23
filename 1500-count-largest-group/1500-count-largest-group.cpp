@@ -4,13 +4,14 @@ public:
         vector<int> v(37, 0);
         int maxi = 0;
         for(int i=1; i<=n; i++){
-            string tmp = to_string(i);
-            int sum=0;
-            for(int j=0; j<tmp.size(); j++){
-                sum+=(tmp[j]-'0');
+             int curr = i;
+            int digitSum = 0;
+            while (curr > 0) {
+                digitSum += curr % 10;
+                curr /= 10;
             }
-            v[sum]++;
-            maxi = max(maxi, v[sum]);
+            v[digitSum]++;
+            maxi = max(maxi, v[digitSum]);
         }
         
         int ans=0;

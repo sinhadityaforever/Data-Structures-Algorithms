@@ -2,6 +2,7 @@ class Solution {
 public:
     int countLargestGroup(int n) {
         unordered_map<int, int> mp;
+        int maxi = 0;
         for(int i=1; i<=n; i++){
             string tmp = to_string(i);
             int sum=0;
@@ -9,12 +10,9 @@ public:
                 sum+=(tmp[j]-'0');
             }
             mp[sum]++;
+            maxi = max(maxi, mp[sum]);
         }
-        int maxi = 0;
-
-        for(auto it: mp){
-            maxi = max(maxi, it.second);
-        }
+        
         int ans=0;
         for(auto it: mp){
            if(it.second==maxi) ans++;

@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1160-letter-tile-possibilities) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0768-partition-labels](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2551-apply-operations-to-an-array) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0806-domino-and-tromino-tiling) |
+| [0868-push-dominoes](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |

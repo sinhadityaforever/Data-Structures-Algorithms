@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0797-rabbits-in-forest](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
+| [0890-lemonade-change](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0952-word-subsets) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0797-rabbits-in-forest) |
+| [0890-lemonade-change](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2180-maximum-number-of-tasks-you-can-assign) |

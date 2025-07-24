@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0416-partition-equal-subset-sum) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0806-domino-and-tromino-tiling) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |

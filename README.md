@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/sinhadityaforever/Data-Structures-Algorithms/tree/master/0868-push-dominoes) |
